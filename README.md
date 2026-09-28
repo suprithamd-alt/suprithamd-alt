@@ -1,5 +1,6 @@
 ![Supritha M D banner](banner.svg)
 
+
 # Supritha's Portfolio 👋
 
 Welcome to my portfolio! I'm an MCA graduate with 1+ year of IT experience as a System Engineer at Tata Consultancy Services (TCS).
