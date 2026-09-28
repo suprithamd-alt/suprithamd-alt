@@ -1,23 +1,24 @@
 # Supritha's Portfolio 👋
 
-Welcome to my portfolio! I'm an aspiring Data Analyst who enjoys turning raw data into clear business insights.
+Welcome to my portfolio! I'm an MCA graduate with 1+ year of IT experience as a System Engineer at Tata Consultancy Services (TCS).
 
-I'm currently building my skills in SQL, Excel, and dashboarding, and I'm looking to start my career in data analytics.
+I'm building my skills in data analytics, using SQL, Power BI, and Excel to explore data, define KPIs, and turn findings into business insights. My background in compliance monitoring, SLA tracking, and operational reporting shapes how I approach data.
 
 ## 🛠️ Tools & Technologies
 
-- **Languages & Databases:** SQL
-- **Visualization & Reporting:** Excel (Pivot Tables, Charts, Dashboards)
+- **Languages & Databases:** SQL, PostgreSQL
+- **Visualization & Reporting:** Power BI (DAX, Power Query, Data Modeling), Excel (Pivot Tables, Dashboards, KPIs)
+- **Data Analysis:** Data Exploration, Data Profiling, Trend Analysis, KPI Definition & Validation
 - **Tools & Workflow:** Git, GitHub
 
 ## 📁 Projects Overview
 
 - [Swiggy Sales Dashboard](https://github.com/suprithamd-alt/Swiggy_Sales_Dashboard) | *Excel, Pivot Tables, Dashboard*
-- [SQL Data Job Market Analysis](https://github.com/suprithamd-alt/SQL_DATA_JOB_MARKET_ANALYSIS) | *SQL*
+- [SQL Data Job Market Analysis](https://github.com/suprithamd-alt/SQL_DATA_JOB_MARKET_ANALYSIS) | *PostgreSQL, SQL*
 
 ## 🎯 What I'm Looking For
 
-Data Analyst / Business Analyst roles, with work centered on dashboards, data analysis, and business-question-driven insights.
+Data Analyst roles, with work centered on data exploration, KPI-driven dashboards, and business-question-driven analysis.
 
 ## 🤝 Connect with Me
 
